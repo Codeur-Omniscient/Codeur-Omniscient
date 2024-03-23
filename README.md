@@ -5,7 +5,7 @@ I'm a fresher frontend web developper who starded his journey a few months ago, 
 
 ### Nice to see you there 🙂
 
-- 👩🏽‍💻 I’m currently working on **HTML | CSS | JavaScript |**
+- 👩🏽‍💻 I’m currently working on **HTML | CSS | JavaScript**
 - ⚡ I’m currently learning **Tailwindcss** and **Reactjs**
 - 🤝🏽 I’m also interest in collaborating on **Frontend Project**
 - 📫 How to reach me: anthonymedin258@outlook.fr
@@ -31,9 +31,13 @@ I'm a fresher frontend web developper who starded his journey a few months ago, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codeur-Omniscient&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </details>
 
-## 🏆 GitHub Trophies
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+  <br />
+  
+  ![](https://github-profile-trophy.vercel.app/?username=Codeur-Omniscient&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</details>
 
-![](https://github-profile-trophy.vercel.app/?username=Codeur-Omniscient&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
