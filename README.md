@@ -27,7 +27,7 @@ I'm a fresher frontend web developper who starded his journey a few months ago, 
 <br />
     
 ![](https://github-readme-stats.vercel.app/api?username=Codeur-Omniscient&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Codeur-Omniscient&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Codeur-Omniscient&theme=radical&hide_border=false) <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codeur-Omniscient&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </details>
 
