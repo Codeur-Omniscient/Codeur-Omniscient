@@ -5,8 +5,8 @@ I'm a fresher frontend web developper who starded his journey a few months ago, 
 
 ### Nice to see you there 🙂
 
-- 👩🏽‍💻 I’m currently working on **HTML | CSS | JavaScript**
-- ⚡ I’m currently learning **Tailwindcss** and **Reactjs**
+- 👩🏽‍💻 I’m currently working on **React | TailwindCss | JavaScript/Typescript**
+- ⚡ I’m currently learning **NodeJs** and **ExpressJs**
 - 🤝🏽 I’m also interest in collaborating on **Frontend Project**
 - 📫 How to reach me: anthonymedin258@outlook.fr
 - 😄 Pronouns: He/Him
