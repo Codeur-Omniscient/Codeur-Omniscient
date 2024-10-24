@@ -6,9 +6,9 @@ I'm a fresher frontend web developper who starded his journey a few months ago, 
 ### Nice to see you there 🙂
 
 - 👩🏽‍💻 I’m currently working on **React | TailwindCss | JavaScript/Typescript**
-- ⚡ I’m currently learning **NodeJs** and **ExpressJs**
+- ⚡ I’m currently learning **NodeJs** and **NextJs**
 - 🤝🏽 I’m also interest in collaborating on **Frontend Project**
-- 📫 How to reach me: anthonymedin258@outlook.fr
+- 📫 How to reach me: anthonymedin963@gmail.com
 - 😄 Pronouns: He/Him
 - 😊 fell free to follow [me](https://github.com/Codeur-Omniscient/) or leave me a star ⭐ <br />
   <br />
