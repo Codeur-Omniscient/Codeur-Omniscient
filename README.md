@@ -27,7 +27,7 @@ Here are my social networks you can reach me on any of them. Also I share my wor
 <br />
     
 ![](https://github-readme-stats.vercel.app/api?username=Codeur-Omniscient&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Codeur-Omniscient&theme=radical&hide_border=false) <br />
+![](https://github-readme-streak-stats.herokuapp.com?user=Codeur-Omniscient&theme=radical) <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codeur-Omniscient&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </details>
 
@@ -37,7 +37,6 @@ Here are my social networks you can reach me on any of them. Also I share my wor
   
   ![](https://github-profile-trophy.vercel.app/?username=Codeur-Omniscient&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </details>
-
 
 ---
 
