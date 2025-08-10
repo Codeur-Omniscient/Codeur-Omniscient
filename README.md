@@ -9,7 +9,7 @@ I'm a fullstack web developper passionate about web development and design i'm e
 ### Nice to see you there 🙂
 
 - 👩🏽‍💻 I’m currently working on **React | Next | Node | JavaScript/Typescript**
-- ⚡ I’m currently learning **Django REST Framework**
+- ⚡ I’m currently learning **Django REST Framework** and **Python**
 - 🤝🏽 I’m also interest in collaborating on **Fullstack Project**
 - 📫 How to reach me: anthonymedin963@gmail.com
 - 😄 Pronouns: He/Him
