@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm [Anthony](https://www.linkedin.com/in/anthony-mban/)
 
-I'm a frontend web developper passionate about web development and design i'm enthusiastic about creating interactive and beatifull websites and web application. I always looking for new opportunities to learn and grow as a web developer<br/>
+I'm a fullstack web developper passionate about web development and design i'm enthusiastic about creating interactive and beatifull websites and web application. I always looking for new opportunities to learn and grow as a web developer<br/>
 <br/>
 [![committers.top badge](https://user-badge.committers.top/congo_brazzaville/Codeur-Omniscient.svg)](https://user-badge.committers.top/congo_brazzaville/Codeur-Omniscient)
 <br/>
@@ -8,9 +8,9 @@ I'm a frontend web developper passionate about web development and design i'm en
 
 ### Nice to see you there 🙂
 
-- 👩🏽‍💻 I’m currently working on **React | TailwindCss | JavaScript/Typescript**
-- ⚡ I’m currently learning **NodeJs** and **NextJs**
-- 🤝🏽 I’m also interest in collaborating on **Frontend Project**
+- 👩🏽‍💻 I’m currently working on **React | Next | Node | JavaScript/Typescript**
+- ⚡ I’m currently learning **Django REST Framework**
+- 🤝🏽 I’m also interest in collaborating on **Fullstack Project**
 - 📫 How to reach me: anthonymedin963@gmail.com
 - 😄 Pronouns: He/Him
 - 😊 fell free to follow [me](https://github.com/Codeur-Omniscient/) or leave me a star ⭐ <br />
