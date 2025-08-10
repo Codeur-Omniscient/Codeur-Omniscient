@@ -1,6 +1,9 @@
 ## Hi there 👋, I'm [Anthony](https://www.linkedin.com/in/anthony-mban/)
 
 I'm a frontend web developper passionate about web development and design i'm enthusiastic about creating interactive and beatifull websites and web application. I always looking for new opportunities to learn and grow as a web developer<br/>
+<br/>
+[![committers.top badge](https://user-badge.committers.top/congo_brazzaville/Codeur-Omniscient.svg)](https://user-badge.committers.top/congo_brazzaville/Codeur-Omniscient)
+<br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFtMXNkMXdkOWY5bGExa2JvbXhxY3QzMXV2cGtyczUxdWcxbDZsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="300" /><br/>
 
 ### Nice to see you there 🙂
