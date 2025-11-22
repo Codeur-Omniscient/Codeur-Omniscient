@@ -27,6 +27,7 @@ Here are my social networks you can reach me on any of them. Also I share my wor
 
 <details>
 <summary><b>📊 GitHub Stats</b></summary>
+
 <br />
     
 ![](https://github-readme-stats.vercel.app/api?username=Codeur-Omniscient&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
