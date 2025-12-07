@@ -16,7 +16,7 @@ I'm a fullstack web developper passionate about web development and design i'm e
 - 😊 fell free to follow [me](https://github.com/Codeur-Omniscient/) or leave me a star ⭐ <br />
   <br />
 
-### 🌐My Socials Networks: 
+### 🌐My Socials Networks:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webdevthony) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<(https://www.linkedin.com/in/anthony-mban/)>) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@webdevthony) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Mark_Anthony242)  <br />
 Here are my social networks you can reach me on any of them. Also I share my work on tiktok and instagram don't hesitate to take a look and leave a like😉
