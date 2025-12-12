@@ -6,7 +6,7 @@ I'm a fullstack web developper passionate about web development and design i'm e
 <br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFtMXNkMXdkOWY5bGExa2JvbXhxY3QzMXV2cGtyczUxdWcxbDZsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="300" /><br/>
 
-### Nice to see you there 🙂
+### Nice to see you there 🙂 
 
 - 👩🏽‍💻 I’m currently working on **React | Next | Nest | Node | JavaScript/Typescript**
 - ⚡ I’m currently learning **Django REST Framework** and **Python**
