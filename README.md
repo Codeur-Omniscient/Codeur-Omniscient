@@ -12,7 +12,7 @@ I'm a fullstack web developper passionate about web development and design i'm e
 - ⚡ I’m currently learning **Django REST Framework** and **Python**
 - 🤝🏽 I’m also interest in collaborating on **Fullstack Project**
 - 📫 How to reach me: anthonymedin963@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him 
 - 😊 fell free to follow [me](https://github.com/Codeur-Omniscient/) or leave me a star ⭐ <br />
   <br /> 
 
